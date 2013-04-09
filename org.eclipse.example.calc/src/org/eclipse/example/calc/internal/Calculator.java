@@ -42,6 +42,7 @@ public class Calculator {
 		new Plus();
 		new Square();
 		new Multiple();
+		new Power();
 	}
 
 	private void calculate(String cmdName) {
