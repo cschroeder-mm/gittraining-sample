@@ -16,7 +16,7 @@ public class Multiple extends AbstractOperation implements BinaryOperation
 	public float perform(float arg1, float arg2)
 	{
 		// TODO Auto-generated method stub
-		return arg1 * arg2 ;
+		return arg1 * arg2;
 	}
 
 }
