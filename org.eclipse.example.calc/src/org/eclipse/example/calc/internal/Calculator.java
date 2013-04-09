@@ -17,6 +17,7 @@ import org.eclipse.example.calc.internal.operations.Equals;
 import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Multiple;
 import org.eclipse.example.calc.internal.operations.Plus;
+import org.eclipse.example.calc.internal.operations.Power;
 import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
